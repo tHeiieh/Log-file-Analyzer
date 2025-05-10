@@ -22,13 +22,14 @@ A comprehensive log analysis solution that processes server logs, generates key 
 
 ## Sample Output
 
-![Sample Dashboard](sample_dashboard.png)
+![Sample output](![image](https://github.com/user-attachments/assets/e27e4685-134b-4933-9529-5708fb8e4ff8)
+)
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/log-analyzer.git
+git clone https://github.com/tHeiieh/log-analyzer.git
 cd log-analyzer
 Create virtual environment (recommended):
 
