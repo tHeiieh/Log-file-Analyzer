@@ -2,7 +2,7 @@
 # Log Analysis Tool
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 
 A comprehensive log analysis solution that processes server logs, generates key metrics, and creates visualizations to identify traffic patterns and potential issues.
 
@@ -29,7 +29,7 @@ A comprehensive log analysis solution that processes server logs, generates key 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tHeiieh/log-analyzer.git
+git clone https://github.com/tHeiieh/Log-file-Analyzer.git
 cd log-analyzer
 Create virtual environment (recommended):
 
