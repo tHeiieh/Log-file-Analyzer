@@ -22,8 +22,8 @@ A comprehensive log analysis solution that processes server logs, generates key 
 
 ## Sample Output
 
-![Sample output](![image](https://github.com/user-attachments/assets/364494e5-885f-443c-92ee-0b4c160766d7)
-)
+![image](https://github.com/user-attachments/assets/a62d9cf4-02ce-4f9c-ab75-bb35e436332a)
+
 
 ## Installation
 
